@@ -1,0 +1,282 @@
+[
+  {
+    "employee_id": "EMP0001",
+    "first_name": "John",
+    "last_name": "Doe",
+    "role": "User",
+    "email": "johndoe@example.com",
+    "phone": "+1234567890",
+    "address": {
+      "street": "123 Elm St",
+      "city": "Springfield",
+      "state": "IL",
+      "postal_code": "62701",
+      "country": "USA"
+    },
+    "department": "Sales",
+    "manager": {
+      "manager_id": "EMP0050",
+      "manager_name": "Alice Walker"
+    },
+    "hire_date": "2023-02-15",
+    "salary": 55000,
+    "is_active": true,
+    "emergency_contact": {
+      "name": "Jane Doe",
+      "relationship": "Sister",
+      "phone": "+1234567891"
+    }
+  },
+  {
+    "employee_id": "EMP0002",
+    "first_name": "Sara",
+    "last_name": "Smith",
+    "role": "Manager",
+    "email": "sarasmith@example.com",
+    "phone": "+1987654321",
+    "address": {
+      "street": "456 Oak St",
+      "city": "Chicago",
+      "state": "IL",
+      "postal_code": "60601",
+      "country": "USA"
+    },
+    "department": "HR",
+    "manager": {
+      "manager_id": "EMP0010",
+      "manager_name": "David Clark"
+    },
+    "hire_date": "2020-08-09",
+    "salary": 72000,
+    "is_active": true,
+    "emergency_contact": {
+      "name": "John Smith",
+      "relationship": "Father",
+      "phone": "+1987654322"
+    }
+  },
+  {
+    "employee_id": "EMP0003",
+    "first_name": "Mike",
+    "last_name": "Johnson",
+    "role": "Admin",
+    "email": "mikejohnson@example.com",
+    "phone": "+1122334455",
+    "address": {
+      "street": "789 Pine St",
+      "city": "New York",
+      "state": "NY",
+      "postal_code": "10001",
+      "country": "USA"
+    },
+    "department": "IT",
+    "manager": {
+      "manager_id": "EMP0020",
+      "manager_name": "Rachel Green"
+    },
+    "hire_date": "2019-01-11",
+    "salary": 85000,
+    "is_active": true,
+    "emergency_contact": {
+      "name": "Catherine Johnson",
+      "relationship": "Mother",
+      "phone": "+1122334456"
+    }
+  },
+  {
+    "employee_id": "EMP0004",
+    "first_name": "Alice",
+    "last_name": "Williams",
+    "role": "User",
+    "email": "alicewilliams@example.com",
+    "phone": "+1230987654",
+    "address": {
+      "street": "321 Maple St",
+      "city": "Dallas",
+      "state": "TX",
+      "postal_code": "75201",
+      "country": "USA"
+    },
+    "department": "Marketing",
+    "manager": {
+      "manager_id": "EMP0035",
+      "manager_name": "Tom Richards"
+    },
+    "hire_date": "2021-11-05",
+    "salary": 48000,
+    "is_active": true,
+    "emergency_contact": {
+      "name": "Michael Williams",
+      "relationship": "Brother",
+      "phone": "+1230987655"
+    }
+  },
+  {
+    "employee_id": "EMP0005",
+    "first_name": "James",
+    "last_name": "Taylor",
+    "role": "Manager",
+    "email": "jamestaylor@example.com",
+    "phone": "+1222333444",
+    "address": {
+      "street": "654 Birch St",
+      "city": "Los Angeles",
+      "state": "CA",
+      "postal_code": "90001",
+      "country": "USA"
+    },
+    "department": "Finance",
+    "manager": {
+      "manager_id": "EMP0050",
+      "manager_name": "Alice Walker"
+    },
+    "hire_date": "2018-07-19",
+    "salary": 95000,
+    "is_active": true,
+    "emergency_contact": {
+      "name": "Laura Taylor",
+      "relationship": "Wife",
+      "phone": "+1222333445"
+    }
+  },
+  {
+    "employee_id": "EMP0006",
+    "first_name": "Eve",
+    "last_name": "Brown",
+    "role": "Admin",
+    "email": "evebrown@example.com",
+    "phone": "+1333445566",
+    "address": {
+      "street": "987 Cedar St",
+      "city": "Miami",
+      "state": "FL",
+      "postal_code": "33101",
+      "country": "USA"
+    },
+    "department": "IT",
+    "manager": {
+      "manager_id": "EMP0090",
+      "manager_name": "Chris Black"
+    },
+    "hire_date": "2017-03-25",
+    "salary": 91000,
+    "is_active": true,
+    "emergency_contact": {
+      "name": "David Brown",
+      "relationship": "Father",
+      "phone": "+1333445567"
+    }
+  },
+  {
+    "employee_id": "EMP0007",
+    "first_name": "Lucas",
+    "last_name": "Miller",
+    "role": "User",
+    "email": "lucasmiller@example.com",
+    "phone": "+1444556677",
+    "address": {
+      "street": "111 Cherry St",
+      "city": "Houston",
+      "state": "TX",
+      "postal_code": "77001",
+      "country": "USA"
+    },
+    "department": "Sales",
+    "manager": {
+      "manager_id": "EMP0030",
+      "manager_name": "Sophia Davis"
+    },
+    "hire_date": "2022-06-18",
+    "salary": 46000,
+    "is_active": true,
+    "emergency_contact": {
+      "name": "Maria Miller",
+      "relationship": "Mother",
+      "phone": "+1444556678"
+    }
+  },
+  {
+    "employee_id": "EMP0008",
+    "first_name": "Emma",
+    "last_name": "Garcia",
+    "role": "Manager",
+    "email": "emmagarcia@example.com",
+    "phone": "+1555667788",
+    "address": {
+      "street": "222 Fir St",
+      "city": "Austin",
+      "state": "TX",
+      "postal_code": "73301",
+      "country": "USA"
+    },
+    "department": "Operations",
+    "manager": {
+      "manager_id": "EMP0050",
+      "manager_name": "Alice Walker"
+    },
+    "hire_date": "2020-04-01",
+    "salary": 76000,
+    "is_active": true,
+    "emergency_contact": {
+      "name": "Juan Garcia",
+      "relationship": "Husband",
+      "phone": "+1555667789"
+    }
+  },
+  {
+    "employee_id": "EMP0009",
+    "first_name": "Daniel",
+    "last_name": "Lopez",
+    "role": "Admin",
+    "email": "danielopez@example.com",
+    "phone": "+1666778899",
+    "address": {
+      "street": "333 Redwood St",
+      "city": "San Francisco",
+      "state": "CA",
+      "postal_code": "94102",
+      "country": "USA"
+    },
+    "department": "Admin",
+    "manager": {
+      "manager_id": "EMP0070",
+      "manager_name": "Rachel Green"
+    },
+    "hire_date": "2016-09-30",
+    "salary": 99000,
+    "is_active": true,
+    "emergency_contact": {
+      "name": "Juan Lopez",
+      "relationship": "Brother",
+      "phone": "+1666778900"
+    }
+  },
+  {
+    "employee_id": "EMP0010",
+    "first_name": "Sophia",
+    "last_name": "Davis",
+    "role": "User",
+    "email": "sophiadavis@example.com",
+    "phone": "+1777889900",
+    "address": {
+      "street": "444 Pine St",
+      "city": "Seattle",
+      "state": "WA",
+      "postal_code": "98001",
+      "country": "USA"
+    },
+    "department": "Marketing",
+    "manager": {
+      "manager_id": "EMP0045",
+      "manager_name": "John Miller"
+    },
+    "hire_date": "2022-11-10",
+    "salary": 49000,
+    "is_active": true,
+    "emergency_contact": {
+      "name": "James Davis",
+      "relationship": "Father",
+      "phone": "+1777889901"
+    }
+  }
+]
